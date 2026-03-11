@@ -23,11 +23,14 @@ To make this professional, I mapped my actions to the MITRE matrix:
 ---
 ## 📸 Lab Evidence
 
+---
+## 📸 Lab Evidence
+
 ### Network Scanning Results
-![Nmap Results](../nmap_results.png)
-![Nmap Results 2](../nmap_results2.png)
+![Nmap Results](./nmap_results.png)
+![Nmap Results 2](./nmap_results2.png)
 
 ### MITRE ATT&CK Mapping
-![MITRE Heatmap](../mitre_map.png)
+![MITRE Heatmap](./mitre_map.png)
 ### Network Scanning Results
 <img src="../nmap_results.png" width="400" /> <img src="../nmap_results2.png" width="400" />
