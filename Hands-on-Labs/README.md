@@ -19,10 +19,6 @@ To make this professional, I mapped my actions to the MITRE matrix:
 ---
 *Next up: Investigating the FTP service for potential exploits.*
 
-
----
-## 📸 Lab Evidence
-
 ---
 ## 📸 Lab Evidence
 
@@ -33,4 +29,4 @@ To make this professional, I mapped my actions to the MITRE matrix:
 ### MITRE ATT&CK Mapping
 ![MITRE Heatmap](./mitre_map.png)
 ### Network Scanning Results
-<img src="../nmap_results.png" width="400" /> <img src="../nmap_results2.png" width="400" />
+<img src="./nmap_results.png" width="400" /> <img src="./nmap_results2.png" width="400" />
