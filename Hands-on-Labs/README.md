@@ -25,7 +25,7 @@ To make this professional, I mapped my actions to the MITRE matrix:
 
 ### Network Scanning Results
 ![Nmap Results](..//mitre_map.png)
-![Nmap Results 2](../nmap_results2.png)
+![Nmap Results 2](..**/nmap_results2.png**)
 
 ### MITRE ATT&CK Mapping
 ![MITRE Heatmap](../mitre_map.png)
