@@ -24,7 +24,7 @@ To make this professional, I mapped my actions to the MITRE matrix:
 ## 📸 Lab Evidence
 
 ### Network Scanning Results
-![Nmap Results](../nmap_results.png)
+![Nmap Results](..//mitre_map.png)
 ![Nmap Results 2](../nmap_results2.png)
 
 ### MITRE ATT&CK Mapping
